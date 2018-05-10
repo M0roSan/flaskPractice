@@ -1,4 +1,2 @@
 # flaskPractice
 
-
-hello world
